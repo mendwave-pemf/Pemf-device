@@ -1,5 +1,5 @@
 # MendWave Pemf Device
-Resources and documentation for the MendWave PEMF device, a targeted pulsed electromagnetic field therapy system designed to support recovery and mobility
+Resources and documentation for the <a href=https://getmendwave.com/pages/mendwave-pemf-device>MendWave PEMF device</a> a targeted pulsed electromagnetic field therapy system designed to support recovery and mobility
 MendWave PEMF Device
 
 A targeted Pulsed Electromagnetic Field (PEMF) therapy system designed to support recovery, mobility, and wellness through focused electromagnetic field technology.
